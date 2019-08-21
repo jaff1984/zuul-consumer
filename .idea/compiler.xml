@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gray-consumer-8082" />
+        <module name="holly.zuul01" />
+        <module name="zuul-consumer-8080" />
+        <module name="zuul-consumer-8090" />
+        <module name="holly.eureka01" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gray-consumer-8082" target="1.8" />
+      <module name="holly.eureka01" target="1.8" />
+      <module name="holly.zuul01" target="1.8" />
+      <module name="zuul-consumer-8080" target="1.8" />
+      <module name="zuul-consumer-8090" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gray-consumer-8082" options="-parameters" />
+      <module name="holly.eureka01" options="-parameters" />
+      <module name="holly.zuul01" options="-parameters" />
+      <module name="zuul-consumer-8080" options="-parameters" />
+      <module name="zuul-consumer-8090" options="-parameters" />
+    </option>
+  </component>
+</project>

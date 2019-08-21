@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../workspace/gray-consumer-8082/gray-consumer-8082.iml" filepath="$PROJECT_DIR$/../workspace/gray-consumer-8082/gray-consumer-8082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/holly.eureka01/holly.eureka01.iml" filepath="$PROJECT_DIR$/../workspace/holly.eureka01/holly.eureka01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/holly.zuul01/holly.zuul01.iml" filepath="$PROJECT_DIR$/../workspace/holly.zuul01/holly.zuul01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace/zuul-consumer-8080/zuul-consumer-8080.iml" filepath="$PROJECT_DIR$/../workspace/zuul-consumer-8080/zuul-consumer-8080.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-consumer-8090.iml" filepath="$PROJECT_DIR$/zuul-consumer-8090.iml" />
+    </modules>
+  </component>
+</project>
